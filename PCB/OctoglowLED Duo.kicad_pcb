@@ -5489,9 +5489,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/lib/3d/ESP32-C3_SUPERMINI.step"
-			(offset
-				(xyz 0 0 8.5)
-			)
+			(offset (xyz 0 0 1))
 			(scale
 				(xyz 1 1 1)
 			)
@@ -5499,28 +5497,8 @@
 				(xyz -90 0 0)
 			)
 		)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.step"
-			(offset
-				(xyz -7.62 9.9 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.step"
-			(offset
-				(xyz 7.62 9.9 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
+		
+		
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")

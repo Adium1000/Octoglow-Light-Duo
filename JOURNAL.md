@@ -3,7 +3,7 @@ title: "Octoglow Light Duo "
 github: "https://github.com/Adium1000/Octoglow-Light-Duo"
 description: "A light controller based on the ESP32 S3 that can control up to two LED strips separately and can also be controlled using a standard IR LED remote control."
 created_at: "2026-10-12"
-total_time: "12h 18m"
+total_time: "14h 18m"
 ---
 
 # October 13, 2026: The main idea of this project
@@ -109,3 +109,26 @@ I've finished writing the README, making it as clear as possible. I tried to inc
 ![](https://fabricate.hackclub-assets.com/3c52d9131c3906a067c923ed375812f2c1d1ad94a03ac1dbc24c95f08f3bb32b/image-png/image.png)
 
 **Total time spent: 2h 30m**
+
+# October 22, 2026: Maked a Case
+<!-- fabricate:entry 807 -->
+
+Since my project didn't meet the TIER 4 requirements, I decided to design a case to make the project more interesting. 
+
+![](https://fabricate.hackclub-assets.com/f72bef086f7fba80f45dc281cf13abe77b10ee6f28d3de663c54074eb565f4f7/image-png/Octoglow_assembly%20-%20Copy.png)
+
+
+The case features a mounting system with nuts that are meant to be glued to the case, with the PCB and mounting screws placed over them, 
+
+![](https://fabricate.hackclub-assets.com/f5ff000cb6c9356b01a2611d3ccf369bf109a4af0eb534031c975a39c825417b/image-png/image.png)
+
+and the enclosure lid, which has the necessary openings for all the wires, features clips to facilitate maintenance or in case of unforeseen incidents. 
+
+![](https://fabricate.hackclub-assets.com/7b41166f292a26b00959b77707ac2f245a946f689d617577790682a61562533b/image-png/image.png)
+
+
+The enclosure also comes with two brackets for mounting on walls or desks using screws to keep everything organized.
+
+![](https://fabricate.hackclub-assets.com/c95b433d780a4451d780eceae5415a8a821611e286ae0d25cfcc7a70a74b938e/image-png/image.png)
+
+**Total time spent: 2h**

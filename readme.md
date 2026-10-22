@@ -7,6 +7,14 @@ Octoglow Light Duo is an LED strip controller capable of controlling two LED str
 
 So maybe you’ve come across some cheap LED controllers that use MOSFETs, have a Bluetooth app full of ads, are unstable, and break at the slightest jolt The idea behind my project is to create a reliable version that can control two sets of LEDs, has a buzzer, an IR sensor, and dedicated software that syncs with music, notifications, and other telemetry data that a user can provide all without any ads or sketchy software, running securely on your local network.
 
+![Assembly](Assets/Readme_banners/Assembly.png)
+
+![WorkFlow](Assets/Octoglow_assembly.png)
+
+![WorkFlow](<Assets/Screenshot 2026-10-21 234649.png>)
+
+![WorkFlow](<Assets/Screenshot 2026-10-21 234726.png>)
+
 ![PCB](Assets/Readme_banners/pcb.png)
 
 ![Workflow](Assets/PCB_Cu1.png)
